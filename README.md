@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seo-mihyeon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seo-mihyeon&fontSize=90&animation=twinkling" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-mihyeon&&show_icons=true&theme=buefy)
 
@@ -31,5 +30,8 @@
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
+ 
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+
