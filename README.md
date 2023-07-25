@@ -34,4 +34,5 @@
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mimme_)](https://github.com/eungyeole/velog-readme-stats)
 
